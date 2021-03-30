@@ -29,5 +29,15 @@ Now your database is ready!!!! good luck detective :shipit: :mag:
 - For each clue solved do a commit :wink:
 - Create a pull request to submit your work.
 
+## Additional Resources
+
+- [PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
+- [PostgreSQL official documentation](http://www.postgresql.org/docs/)
+
+## [License](LICENSE)
+
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
 
 
