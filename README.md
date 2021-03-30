@@ -25,7 +25,7 @@ Now your database is ready!!!! good luck detective :shipit: :mag:
 ## Exercise
 
 - On the file [find_carmen.sql](find_carmen.sql) use the clues to create the appropriate SQL queries to help you find Carmen. Tell us where she's heading!
-- You can run your queries on the terminal or in pgAdmin, just salve the final query to the file and move to the next clue.
+- You can run your queries on the terminal or in pgAdmin, just save the final query to the file and move to the next clue.
 - For each clue solved do a commit :wink:
 - Create a pull request to submit your work.
 
